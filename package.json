@@ -1,0 +1,14 @@
+{
+  "name": "hellogulp",
+  "version": "1.0.0",
+  "description": "Aprendendo Gulp",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meira",
+  "license": "ISC",
+  "devDependencies": {    
+    "gulp-protractor": "^2.1.0"
+  }
+}
