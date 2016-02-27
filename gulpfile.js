@@ -12,7 +12,8 @@ gulp.task('protractor-run', function (done) {
 });
 
 gulp.task('run-dev', function(done){
-	return 
+	// return 
 });
 
 gulp.task('default', ['protractor-run']);
+
