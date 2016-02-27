@@ -3,6 +3,7 @@ node_js:
   - "4.3"  
 before_script:
   - npm install -g gulp-protractor
-script: 'ls -a'  
+sudo: required
+script: "echo 'pwd - ' ls -a"  
 script: gulp
 
