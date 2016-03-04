@@ -5,4 +5,5 @@ node_js:
 before_script:
   - npm install 
 script: 
-  - ./node_modules/gulp-protractor/gulp
+  - cd /node_modules/gulp-protractor
+  - ls
