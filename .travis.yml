@@ -6,4 +6,5 @@ before_script:
   - npm install -g gulp-protractor 
   - npm install --save-dev gulp-protractor
 script: 
+  - ls -a
   - gulp
