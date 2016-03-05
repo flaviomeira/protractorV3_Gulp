@@ -3,8 +3,7 @@ sudo: required
 node_js:
   - "4.3"  
 before_script:
-  - npm install -g gulp-protractor 
-  - npm install --save-dev gulp-protractor
+  - npm install -g gulp
 script: 
   - ls -a
   - gulp
